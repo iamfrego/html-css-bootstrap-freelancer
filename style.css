@@ -30,12 +30,17 @@
     background-color: red;
 }
 
-.portfolio-item, .contact-item, .footer-item {
+.portfolio-item {
     background-color: blue;
+    width: 300px;
 }
 
 .about {
     background-color: #1abc9c;
+}
+
+.contact-item, .footer-item {
+    background-color: blue;
 }
 
 .footer {
