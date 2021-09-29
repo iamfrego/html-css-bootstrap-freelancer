@@ -4,16 +4,16 @@
     height: 100px;
 }
 
-.debug .jumbo {
-    height: 500px;
+.debug .jumbo, .debug .footer {
+    height: 200px;
 }
 
-.debug .portfolio-title {
+.debug .portfolio-title, .debug .about-title, .debug .about-download, .contact-title, .copyright {
     height: 100px;
 }
 
-.portfolio-item {
-    height: 200px;
+.debug .portfolio-item, .debug .about-item, .contact-item, .footer-item {
+    height: 100px;
 }
 
 /*  */
@@ -26,10 +26,22 @@
     background-color: #1abc9c;
 }
 
-.portfolio-title {
+.portfolio-title, .contact-title {
     background-color: red;
 }
 
-.portfolio-item {
+.portfolio-item, .contact-item, .footer-item {
     background-color: blue;
+}
+
+.about {
+    background-color: #1abc9c;
+}
+
+.footer {
+    background-color: #3a546d;
+}
+
+.copyright {
+    background-color: #2c3e50;
 }
