@@ -8,13 +8,13 @@
   height: 200px;
 } */
 
-.debug .portfolio-title, .debug .about-title, .debug .about-download, .contact-title, .copyright {
+/* .debug .portfolio-title, .debug .about-title, .debug .about-download, .contact-title, .copyright {
   height: 100px;
 }
 
 .debug .portfolio-item, .debug .about-item, .contact-item, .footer-item {
   height: 100px;
-}
+} */
 
 /*  */
 
@@ -24,6 +24,11 @@
 
 .jumbo {
   background-color: #1abc9c;
+}
+
+.card {
+  background-color: transparent;
+  border: none;
 }
 
 .portfolio-title, .contact-title {
