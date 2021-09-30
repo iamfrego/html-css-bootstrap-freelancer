@@ -8,11 +8,11 @@
   height: 200px;
 } */
 
-/* .debug .portfolio-title, .debug .about-title, .debug .about-download, .contact-title, .copyright {
+/* .debug .portfolio-title, .debug .about-download, .contact-title, .copyright {
     height: 100px;
 } */
 
-/* .debug .portfolio-item, .debug .about-item, .contact-item, .footer-item {
+/* .debug .portfolio-item, .footer-item {
     height: 100px;
 } */
 
@@ -54,8 +54,8 @@
     border: white 1px solid;
 }
 
-.contact-item, .footer-item {
-    background-color: blue;
+.form-control {
+    border: transparent;
 }
 
 .footer {
