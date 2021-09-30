@@ -62,6 +62,17 @@
     background-color: #3a546d;
 }
 
-.copyright {
+.footer-item i {
+    border: 1px solid white;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.footer-span {
+    color: #1abc9c;
+}
+
+.footer .copyright {
     background-color: #2c3e50;
 }
