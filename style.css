@@ -39,7 +39,7 @@
 }
 
 .portfolio-item {
-    width: 200px
+    width: 300px
 }
 
 .portfolio-item img {
@@ -48,6 +48,10 @@
 
 .about {
     background-color: #1abc9c;
+}
+
+.btn {
+    border: white 1px solid;
 }
 
 .contact-item, .footer-item {
